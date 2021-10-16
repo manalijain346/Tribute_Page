@@ -23,7 +23,10 @@ h2 {
 }
 
 .image {
-    width: 800px;
+    width: 100%;
+}
+.img-container {
+    width:800px;
 }
 
 .timeline {
@@ -38,7 +41,7 @@ h2 {
         margin: 10px;
     }
 
-    .image {
+    .img-container {
         width: 300px;
     }
 
