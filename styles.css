@@ -4,16 +4,14 @@
     margin: 30px;
     text-align: center;
     border-radius: 20px;
-    font-size: 25px;
 }
 
-h1 {
-    font-size: 60px;
+#title {
+    font-size: 34px;
 }
 
 h2 {
-    font-family: monospace;
-    font-size: 30px;
+    font-size: 20px;
 }
 
 #img-div {
@@ -23,10 +21,9 @@ h2 {
 }
 
 .image {
-    width: 100%;
-}
-.img-container {
-    width:800px;
+    max-width: 90%;
+    margin: 0 auto;
+    display: block;
 }
 
 .timeline {
@@ -41,13 +38,7 @@ h2 {
         margin: 10px;
     }
 
-    .img-container {
-        width: 300px;
-    }
-
     .timeline {
         width: unset;
     }
-
-
 }
