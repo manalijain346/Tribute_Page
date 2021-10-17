@@ -26,6 +26,10 @@ h2 {
     display: block;
 }
 
+#img-caption{
+    padding :10px;
+}
+
 .timeline {
     text-align: left;
     margin: 10px auto;
